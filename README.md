@@ -5,4 +5,4 @@ Saga
 
 > **Saga** is a theme designed to look beautiful with all your media, be it a collection of images, a video you've embedded or that nice panorama you took yesterday.
 
-This version of Saga has been forked from [@Reedyn's original design](https://github.com/Reedyn/Saga) to run on Postleaf.
+This version of Saga has been forked from [@Reedyn's original design](https://github.com/Reedyn/Saga) to run on Leafpub.
