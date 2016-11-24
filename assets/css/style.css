@@ -233,6 +233,10 @@ body {
     margin-right: 1rem;
 }
 
+.maintenance-template.homepage #header {
+    height: 220px;
+}
+
 .homepage #header,
 .archive-template #header {
     height: 60px;
