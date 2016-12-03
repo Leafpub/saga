@@ -1233,11 +1233,11 @@ button:hover {
 }
 
 /* Change the editor guide color for title */
-body [data-postleaf-type=post-title]:hover {
+body [data-leafpub-type=post-title]:hover {
     outline-color: rgba(255, 255, 255, .5);
 }
 
-body [data-postleaf-type=post-title]:focus {
+body [data-leafpub-type=post-title]:focus {
     outline-color: white;
 }
 
@@ -1269,7 +1269,7 @@ body [data-postleaf-type=post-title]:focus {
 }
 
 /*//////////////////////////////////////////////////////////////////////////////////////////////////
-// Required classes for alignment. We need these because Postleaf generates classes
+// Required classes for alignment. We need these because Leafpub generates classes
 // instead of inline styles for alignment.
 //////////////////////////////////////////////////////////////////////////////////////////////////*/
 
